@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- ![](./screenshot.jpg) -->
+![](./screenshot.jpeg)
 
 ### Links
 
@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@victorivanlopezlearning](https://www.frontendmentor.io/profile/victorivanlopezlearning)
